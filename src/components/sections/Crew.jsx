@@ -31,7 +31,7 @@ const Crew = () => {
             id: 'astro', name: "Head of Departments", members: [
                 { name: "Aditya", role: "Web-OPS HOD", quote: "Innovation is our fuel.", img: "/images/aditya.jpg", linkedin: "https://www.linkedin.com/in/aditya-jangra-767632281", email: "aditya219jangra@gmail.com" },
                 { name: "Kavisha", role: "EVENTS & ACTIVITIES HOD", quote: "Innovation is our fuel.", img: "/images/kavisha.jpeg", linkedin: "https://www.linkedin.com/in/kavishakapoor", email: "24f2004122@ds.study.iitm.ac.in" },
-                { name: "Shruti", role: "DESIGN &CONTENT HOD", quote: "Innovation is our fuel.", img: "/images/profile-placeholder.svg" },
+                { name: "Shruti", role: "DESIGN & CONTENT HOD", quote: "Innovation is our fuel.", img: "/images/shruti.jpeg", linkedin: "https://www.linkedin.com/in/shruti-pandey-06275230a", email: "25f3000775@ds.study.iitm.ac.in" },
                 { name: "Foram", role: "PR &OUTREACH HOD", quote: "Innovation is our fuel.", img: "/images/foram.jpeg", linkedin: "https://www.linkedin.com/in/forammandali/", email: "25F2007763@ds.study.iitm.ac.in" }
 
 
